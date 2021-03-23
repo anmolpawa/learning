@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Live Letter Counter | Mini Project</title>
+    <link rel="stylesheet" href="Live Character Counter using CSS & Javascript Mini Project.css">
+  </head>
+  <body>
+    <div class="container">
+      <h3>Live Character Counter</h3>
+      <textarea placeholder="Write your text here..." onkeyup="countLetters();"></textarea>
+      <p>Total Character : <span class="count">0</span></p>
+    </div>
+    <script>
+      const textarea = document.querySelector('textarea');
+      const count = document.querySelector('.count');
+
+      function countLetters() {
+        const text = textarea.value;
+        const textLength = textarea.value.length;
+        count.innerText = `${textLength}`;
+      }
+    </script>
+  </body>
+</html>

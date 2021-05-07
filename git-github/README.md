@@ -3,6 +3,7 @@
 ---
 |Git|
 |:-|
+|![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgit-scm.com%2Fdownloads%2Flogos&psig=AOvVaw1Kf9WqOw7Nnfk0G3PpxFNC&ust=1620465524850000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjwmdSet_ACFQAAAAAdAAAAABAD)|
 |Free and open source software|
 |Distributed version control system|
 |Accessible anywhere in the world|

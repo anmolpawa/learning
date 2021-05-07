@@ -2,8 +2,8 @@
 ### Version control
 ---
 |Git|
-|:-|
-|![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgit-scm.com%2Fdownloads%2Flogos&psig=AOvVaw1Kf9WqOw7Nnfk0G3PpxFNC&ust=1620465524850000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjwmdSet_ACFQAAAAAdAAAAABAD)|
+|:---:|
+|<img src="https://i.pinimg.com/originals/84/9d/ac/849dac53ec386861333e6f24be7ce33f.jpg" width="200" height="150">|
 |Free and open source software|
 |Distributed version control system|
 |Accessible anywhere in the world|
@@ -12,11 +12,11 @@
 
 ---
 
-`SSH protocol` - A method for secure remote login from one computer to another.
-`Repository`- The folders of your project that are set up for version control.
-`Fork` - A copy of a Repository.
-`Pull request` - The process you use to request that someone reviews and approves your changes before they become final.
-`Working directory` - A Directory on your file system , include its files and subdirectories, that is associated with a git Repository.
+`SSH protocol` - A method for secure remote login from one computer to another.<br />
+`Repository`- The folders of your project that are set up for version control.<br />
+`Fork` - A copy of a Repository.<br />
+`Pull request` - The process you use to request that someone reviews and approves your changes before they become final.<br />
+`Working directory` - A Directory on your file system , include its files and subdirectories, that is associated with a git Repository.<br />
 
 ---
 
